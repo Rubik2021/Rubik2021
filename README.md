@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rubik2021
 - 👀 I’m interested in Open Source Security
-- 🌱 I’m currently learning about how to securely use open source pacakages in enterprises
+- 🌱 I’m currently learning about how to securely use open source packages in enterprises
 - 💞️ I’m looking to collaborate on open source security topics
 - 📫 How to reach me ...
 
